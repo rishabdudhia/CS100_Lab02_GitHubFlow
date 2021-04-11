@@ -4,6 +4,6 @@
 
 int count(const std::string& phrase)
 {
-	return 0;
+	return 0; 
 }
 
