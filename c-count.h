@@ -15,5 +15,3 @@
 
     return counter;
 }
-// count function should go here
-
