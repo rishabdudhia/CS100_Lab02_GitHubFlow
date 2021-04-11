@@ -1,5 +1,6 @@
 #include <iostream>
 
+fadi001/count-func
  unsigned int count(const std::string& str) {
     unsigned int counter = 0;
     bool on_space = true;
